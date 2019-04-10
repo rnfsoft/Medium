@@ -1,0 +1,10 @@
+https://keepass.info/ : Password Manager
+https://www.db-fiddle.com/ : SQL Playground
+http://www.dpriver.com/pp/sqlformat.htm : SQL Formatter
+https://repl.it/: Code Playground
+https://regex101.com/ : Regular Expression Helper
+https://regexper.com/ : Regular Expression Helper
+https://www.diffchecker.com/ : Difference Checker
+https://pastebin.com/ : Text Sharing
+
+

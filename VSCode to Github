@@ -1,0 +1,14 @@
+How to clone
+1. Menu: View -> Command Pallete
+2. Git:Clone -> Repository URL
+3. Repositoty Location
+
+How to push
+1. Menu: Terminal --> New Terminal
+2. Terminal
+    git init
+    git commit -m "Your comment"
+    git remote add origin <Link to GitHub Repo>
+3. Source Control: GIT 
+    Enter Message
+    Push
